@@ -1,6 +1,6 @@
 <html>
 
-    <head>Praktika kodulehekülg</head>
+    <head>Praktika</head>
     
     <body>
         <h2>Praktika kodulehekülg</h2>
